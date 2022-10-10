@@ -30,5 +30,17 @@ https://mdss.cloud/
 速度快	https://youyun520.net/	SSR和V2ray
 ## 14.桔子云	
 性价比高	https://juzi90.com/	SSR和V2ray
-
+# 免费vpn
+## 第一、PrivadoVPN
+https://privadovpn.com/
+（现在免费账号注册提示错误）
+## 第二、Hotspot Shield
+https://www.hotspotshield.com/
+## 第三、TunnelBear
+https://www.tunnelbear.com/
+## 第四、Hide.me
+https://hide.me/en/
+## 第五、Windscribe 
+https://windscribe.com/
+-----------------------------------------
 机场推荐 Telegram：@kejibuman
