@@ -43,4 +43,4 @@ https://hide.me/en/
 ## 第五、Windscribe 
 https://windscribe.com/
 -----------------------------------------
-机场推荐 Telegram：[@kejibuman](https://t.me/baimiochat)
+机场推荐 Telegram：[@baimiochat](https://t.me/baimiochat)
